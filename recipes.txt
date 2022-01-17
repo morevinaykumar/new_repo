@@ -3,4 +3,10 @@ egg curry
 pasta
 chicken fry
 mutton fry
+
+beans
+pizza
+done my changes
+
 final copy
+
